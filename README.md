@@ -8,6 +8,11 @@
 <p><a href="https://projectlombok.org/setup/intellij">Click here to read how to setup Lombok on IntelliJ</a></p>
 <p><a href="https://projectlombok.org/setup/https://projectlombok.org/setup/overview">Click here to read how to setup Lombok on other IDE's</a></p>
 
+<p>Change properties from: src/main/resources/application.properties 
+  spring.datasource.username=yourdbusername
+  spring.datasource.password=yourdbpassword
+</p> 
+
 ## Web Service URL
 
 <p><a href="localhost:8080/" target="_blank">localhost:8080</a></p>
