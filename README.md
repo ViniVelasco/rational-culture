@@ -8,8 +8,8 @@
 <p><a href="https://projectlombok.org/setup/intellij">Click here to read how to setup Lombok on IntelliJ</a></p>
 <p><a href="https://projectlombok.org/setup/https://projectlombok.org/setup/overview">Click here to read how to setup Lombok on other IDE's</a></p>
 
-<p>Change properties from: src/main/resources/application.properties 
-  spring.datasource.username=yourdbusername
+<p>Change properties from: src/main/resources/application.properties <br />
+  spring.datasource.username=yourdbusername <br />
   spring.datasource.password=yourdbpassword
 </p> 
 
