@@ -2,7 +2,7 @@
   <img src="https://www.oliberal.com/image/contentid/policy:1.103017:1554043688/cd-tim-maia-racional-volume-1-remasterizado-D-NQ-NP-745624-MLB25869429471-082017-F.jpg?f=2x1&$p$f=904e4f9&w=1500&$w=f075b93" alt=Spring framework icon"/>
 </p>
 
-<h2><strong>Read carefully to this instructions. YOU NEED TO HAVE LOMBOK SETUP ON YOUR IDE TO RUN THIS PROJECT!</strong></h2>
+<h2><strong>Read carefully to this instructions. YOU NEED TO HAVE LOMBOK SETUP TO RUN THIS PROJECT!</strong></h2>
 
 <p><a href="https://projectlombok.org/setup/eclipse">Click here to read how to setup Lombok on Eclipse</a></p>
 <p><a href="https://projectlombok.org/setup/intellij">Click here to read how to setup Lombok on IntelliJ</a></p>
